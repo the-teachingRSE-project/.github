@@ -8,6 +8,9 @@ We are generally working towards improving the teaching of RSE-related topics.
 Currently, we are developing a set of guidelines for the best development
 of young and practising RSEs.
 
+If you want to contact us you can either write an issue on the respective repository
+or for more general inquiries an email to teachingrse@lists.uni-wuerzburg.de
+
 Past outcomes are:
 - The paper [`Foundational Competencies and Responsibilities of a 
   Research Software Engineer`](https://arxiv.org/abs/2311.11457) 
