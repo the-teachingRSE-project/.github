@@ -18,4 +18,4 @@ Past outcomes are:
 - A [collection of helpful ressources](https://de-rse.org/learn-and-teach/) 
   around learning and teaching RSE topics (Contributions welcome!)
 
-
+There also is the [teachingRSE Zenodo community](https://zenodo.org/communities/teachingrse).
